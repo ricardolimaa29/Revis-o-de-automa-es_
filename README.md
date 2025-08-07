@@ -116,7 +116,7 @@ Faça um programa que:
 3. Salve o título em um arquivo CSV.
 4. Leia esse CSV e envie o texto para um campo de formulário usando `selenium`.
 5. Digite no campo com `pyautogui` um "Relatório enviado!" após isso.
-6. 
+
 Formulario: https://docs.google.com/forms/d/e/1FAIpQLSe1kM6GuDUR34BcH88YdKuiCcjCQVevFWhElbNLtsoBHGob2A/viewform
 ---
 
